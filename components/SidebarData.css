@@ -1,0 +1,17 @@
+.img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    
+
+}
+.Main{
+    color: #ffc107;
+    cursor:text;
+ font-weight: bold;
+ font-size:20px;
+ padding-left: 30px;
+ 
+
+}
